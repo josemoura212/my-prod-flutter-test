@@ -1,7 +1,6 @@
 import 'dart:ui';
 
 import 'package:device_preview/device_preview.dart';
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
@@ -10,7 +9,7 @@ import 'services/page_routes/page_routes.dart';
 void main() {
   runApp(
     DevicePreview(
-      enabled: kReleaseMode,
+      enabled: false,
       builder: (_) => const MyProd(),
     ),
   );
