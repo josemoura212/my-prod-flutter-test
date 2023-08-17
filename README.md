@@ -25,3 +25,7 @@ Entrega do teste dev MyProd.
 ```
 
 6. use `dart --version` para verificar a verção instalada
+
+## obs
+
+Se rodar a verção web, link dynamico esta funcionando basta colocar o nomde de qualquer usuario do github que ira puxar automaticamente
