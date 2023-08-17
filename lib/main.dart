@@ -10,7 +10,7 @@ import 'services/page_routes/page_routes.dart';
 void main() {
   runApp(
     DevicePreview(
-      enabled: !kReleaseMode,
+      enabled: kReleaseMode,
       builder: (_) => const MyProd(),
     ),
   );
