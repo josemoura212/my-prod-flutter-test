@@ -2,7 +2,7 @@
 
 Entrega do teste dev MyProd.
 
-## Instruções de instalação
+## Instruções de instalação:
 
 1. instalar o [fvm](https://fvm.app/docs/getting_started/installation/) usando o codigo `dart pub global activate fvm`
 2. rode o comando `fvm install 3.7.0` para instalar a versão do flutter compativel com o dart 2.19
@@ -26,6 +26,8 @@ Entrega do teste dev MyProd.
 
 6. use `dart --version` para verificar a verção instalada
 
-## obs
+## obs:
 
-Se rodar a verção web, link dynamico esta funcionando basta colocar o nomde de qualquer usuario do github que ira puxar automaticamente
+Se rodar a verção web, link dynamico esta funcionando basta colocar o nome de qualquer usuario do github que ira puxar automaticamente
+
+exemplo /josemoura212
